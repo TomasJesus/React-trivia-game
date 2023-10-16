@@ -1,0 +1,303 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Saturn", "Jupiter"],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the largest ocean in the world?",
+      "options": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "question": "How many bones are there in the adult human body?",
+      "options": ["206", "102", "315", "157"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "What is the chemical symbol for the element gold?",
+      "options": ["Go", "Ge", "Gl", "Au"],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "question": "Which planet is known as the 'Morning Star' and 'Evening Star'?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the national flower of Japan?",
+      "options": ["Lotus", "Tulip", "Cherry Blossom", "Sunflower"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["4", "6", "7", "5"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "Which gas is responsible for the Earth's ozone layer depletion?",
+      "options": ["Oxygen", "Methane", "Carbon Dioxide", "Chlorofluorocarbons (CFCs)"],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What gas do plants release during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "Which planet is often called the 'Red Planet'?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "How many players are there on a standard soccer team?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "What is the largest mammal on Earth?",
+      "options": ["African Elephant", "Giraffe", "Hippopotamus", "Blue Whale"],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "question": "What gas makes up the majority of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "India", "Japan", "South Korea"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "How many strings does a typical violin have?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "In which year was the first successful human flight with a powered, controlled, and sustained aircraft?",
+      "options": ["1903", "1919", "1927", "1935"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Brain", "Heart", "Skin", "Lungs"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the chemical symbol for the element silver?",
+      "options": ["Ag", "Si", "Sv", "Sl"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "Which gas do humans exhale when they breathe out?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the highest mountain in North America?",
+      "options": ["Mount St. Helens", "Mount Whitney", "Denali", "Mount Rainier"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the chemical symbol for the element iron?",
+      "options": ["I", "Ir", "Fe", "Fr"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the second planet from the Sun in our solar system?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "Which gas is known as 'Laughing Gas'?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Helium"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "How many colors are there in a rainbow?",
+      "options": ["3", "5", "7", "9"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "Who is the author of the 'Harry Potter' book series?",
+      "options": ["George Orwell", "J.K. Rowling", "Stephen King", "J.R.R. Tolkien"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "Which planet is known as the 'King of the Planets'?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "How many continents are there in the Southern Hemisphere?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the chemical symbol for the element hydrogen?",
+      "options": ["H", "He", "Ho", "Hy"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Gobi Desert", "Sahara Desert", "Atacama Desert", "Arabian Desert"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "How many bones are there in the adult human hand?",
+      "options": ["27", "29", "30", "32"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "Which gas is used in balloons to make them float in the air?",
+      "options": ["Oxygen", "Helium", "Hydrogen", "Carbon Dioxide"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the chemical symbol for the element sodium?",
+      "options": ["So", "Sa", "Si", "Na"],
+      "correctAnswerIndex": 3
+    },
+
+    {
+      "question": "In which year did the Titanic sink in the North Atlantic Ocean?",
+      "options": ["1912", "1915", "1918", "1920"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "Which gas is the most abundant in Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the chemical symbol for the element carbon?",
+      "options": ["Cr", "Co", "C", "Ca"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "How many legs does a spider typically have?",
+      "options": ["4", "6", "8", "10"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "Which gas do we inhale when we breathe in?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "What is the chemical symbol for the element potassium?",
+      "options": ["Pl", "Po", "K", "Ke"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the largest fish in the ocean?",
+      "options": ["Great White Shark", "Dolphin", "Blue Whale", "Manta Ray"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "Which gas is known as 'Marsh Gas'?",
+      "options": ["Oxygen", "Carbon Dioxide", "Methane", "Sulfur Dioxide"],
+      "correctAnswerIndex": 2
+    },
+
+    {
+      "question": "What is the chemical symbol for the element copper?",
+      "options": ["Cu", "Co", "Cr", "Cp"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "How many sides does a triangle have?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "What is the highest mountain in Africa?",
+      "options": ["Kilimanjaro", "Everest", "Denali", "Rainier"],
+      "correctAnswerIndex": 0
+    },
+
+    {
+      "question": "Which gas is used to extinguish fires?",
+      "options": ["Oxygen", "Carbon Dioxide", "Helium", "Carbon Monoxide"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "What is the chemical symbol for the element oxygen?",
+      "options": ["O", "Ox", "Og", "Oy"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
