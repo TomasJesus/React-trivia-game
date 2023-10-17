@@ -1,6 +1,6 @@
-
-import Answer_module from './Answer.module.scss'; type Props = {
-    onPress: () => void;
+import Answer_module from './Answer.module.scss';
+type Props = {
+    onPress?: () => void;
     text: string;
     color?: string;
     disabled?: boolean;
