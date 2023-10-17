@@ -1,5 +1,6 @@
 import styles from './App.module.scss';
 import QuestionComponent from './components/Question';
+import Reset from './components/Reset';
 import StatBar from './components/StatBar';
 import questions from './questions.json';
 import { Questions } from './types';
@@ -25,6 +26,23 @@ function App() {
         setWaitingToAdvance(false);
         setCurrentQuestionIndex(currentQuestionsIndex + 1);
     };
+
+    const reset = () => {
+        setCurrentQuestionIndex(0);
+        setCorrectAnswers(0);
+        setIncorrectAnswers(0);
+        setWaitingToAdvance(false);
+    };
+
+    if (currentQuestionsIndex >= allQuestions.questions.length) {
+        return (
+            <Reset
+                totalQuestions={allQuestions.questions.length}
+                correctQuestions={correctAnswers}
+                onPress={reset}
+            />
+        );
+    }
 
     return (
         <div className={styles.app}>
